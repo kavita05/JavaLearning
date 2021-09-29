@@ -37,9 +37,5 @@ public class AccessSpecifier {
 	private void privateShow() {
 		System.out.println("Private method");
 	}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		AccessTest object = new AccessTest();
-		//you can access all 
-	}
+	
 }
